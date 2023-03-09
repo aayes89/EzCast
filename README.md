@@ -1,2 +1,2 @@
 # EzCast
-DLNA cast
+DLNA cast for Windows, Linux and MacOS
