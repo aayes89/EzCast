@@ -99,7 +99,7 @@ public class Control implements Serializable {
         loadUnkownDevice();
     }
 
-    private void loadUnkownDevice() {
+    private void loadUnkownDevice() { // stub device, not real working
         Devices unknownDev = new Devices();
         unknownDev.setHost("http://192.168.0.159:38389/deviceDescription/MediaServer");
         unknownDev.setPort(38389);
@@ -289,3 +289,4 @@ public class Control implements Serializable {
         return log;
     }
 }
+
