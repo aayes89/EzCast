@@ -13,7 +13,7 @@ import java.io.Serializable;
  */
 public class Constantes implements Serializable{
 
-    final static String ip = "192.168.0.112";
+    final static String ip = "192.168.0.112"; // change me
     final static int port = 50000;
     final static String uriPlay = "<u:Play xmlns:u=\"urn:schemas-upnp-org:service:AVTransport:1\"><InstanceID>0</InstanceID><Speed>1</Speed></u:Play>\n";
     final static String xmlHead = "<?xml version=\"1.0\"?>\n<SOAP-ENV:Envelope xmlns:SOAP-ENV=\"http://schemas.xmlsoap.org/soap/envelope/\" SOAP-ENV:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\n<SOAP-ENV:Body>\n";
@@ -183,3 +183,4 @@ public class Constantes implements Serializable{
      
      
 }
+
