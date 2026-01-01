@@ -17,5 +17,8 @@ DLNA cast for Windows, Linux and MacOS.
 
 - Put the lib folder next to the executable
 # Capture
-<img width="933" height="370" alt="imagen" src="https://github.com/user-attachments/assets/e09c4f06-734f-4d00-8c91-d7577b98a3eb" />
+<img width="605" height="367" alt="imagen" src="https://github.com/user-attachments/assets/270d95c1-ca5d-4f59-a848-c269995eb4f8" />
+<img width="899" height="661" alt="imagen" src="https://github.com/user-attachments/assets/3dfb11b6-ed6c-41af-a0e6-990fbafca056" />
+
+
 
