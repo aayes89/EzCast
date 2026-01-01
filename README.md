@@ -1,7 +1,16 @@
 # EzCast
 <b>Description:</b>
 
-DLNA cast for Windows, Linux and MacOS
+DLNA cast for Windows, Linux and MacOS.
+
+# Capabilities
+* Ability to stream from local video files.
+* Ability to stream from a video URL.
+* Ability to find DLNA devices on the network.
+* Save and Load list of found devices.
+
+# API endpoints
+
 
 <b>Notes:</b>
 
